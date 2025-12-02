@@ -150,17 +150,6 @@ Run tests after any changes to ensure reliability.
 - `npm test` - Run test suite
 - `npm run lint` - Check code quality
 
-### Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Ensure all tests pass
-5. Submit a pull request
-
-## 📄 License
-
-MIT License - see LICENSE file for details.
-
 ---
 
 **Built with TypeScript, Puppeteer, and Jest** 🚀
